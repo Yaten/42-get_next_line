@@ -6,19 +6,8 @@
   <a aria-label="Completed" href="https://www.42sp.org.br/">
     <img src="https://img.shields.io/badge/42.sp-GNL-682998?logo="></img>
   </a>
-
-  <a href="https://github.com/Yaten/42-get_next_line/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Yaten/42-get_next_line?color=682998&logo=github">
-  </a>
-
-  <a href="https://github.com/Yaten/42-get_next_line/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Yaten/42-get_next_line?color=682998">
-  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Yaten/42-get_next_line">
-    <img src="https://github.com/Yaten/42/blob/main/img/gnl-star.png" alt="GNL 125/100">
-  </a>
   <br>
   125/100
 </p>
